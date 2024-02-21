@@ -5,14 +5,14 @@
 	"workspaceFolder": "/workspaces/ado-repo",
 	"features": {
 		"ghcr.io/microsoft/codespace-features/external-repository:latest": {
-		   "cloneUrl": "<YOUR_ADO_REPO_CLONE_URL>",
+		   "cloneUrl": "https://hackathondemo@dev.azure.com/hackathondemo/Hackathon/_git/HackathonInfra>",
 		   "folder": "/workspaces/ado-repo"
 		}
 	},
 	"customizations": {
 		"vscode": {
 			"settings": { 
-				"adoCodespacesAuth.tenantID": "<YOUR_ENTRA_ID_TENANT_ID>",
+				"adoCodespacesAuth.tenantID": "b0b2e4f7-a38a-42b7-a39a-bdf165894c2f",
 				"extensions.showRecommendationsOnlyOnDemand": true,
 				"extensions.ignoreRecommendations": true,
 				"mssql.connections": [
