@@ -5,7 +5,7 @@
 	"workspaceFolder": "/workspaces/ado-repo",
 	"features": {
 		"ghcr.io/microsoft/codespace-features/external-repository:latest": {
-		   "cloneUrl": "https://hackathondemo@dev.azure.com/hackathondemo/Hackathon/_git/HackathonInfra>",
+		   "cloneUrl": "https://hackathondemo@dev.azure.com/hackathondemo/Hackathon/_git/HackathonInfra",
 		   "folder": "/workspaces/ado-repo"
 		}
 	},
